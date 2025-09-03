@@ -27,3 +27,6 @@ FRED_API_KEY=your_fred_key_here
 - For research/education only.
 - SVI parameter inits/bounds affect stability; tweak if needed.
 - Diagnostics report the worst violation to help clean/regularize.
+
+## Case Study
+[Open the PDF](./A%20CASE%20STUDY.pdf)
