@@ -1,4 +1,9 @@
 # SPX Volatility Surface (SVI) — Arbitrage Diagnostics
+**TL;DR**: This repo fits SPX option surfaces with SVI, compares raw implied vols to smooth fits, and highlights short-dated wing dynamics for trading intuition.
+
+![SVI Fit](svi_fit.png)  
+*Raw SPX implied vols (dots) vs. SVI fits (lines) across short expiries.*
+
 
 This repo fits an SPX volatility surface using **SVI (Stochastic Volatility Inspired)** and runs **no‑arbitrage checks** (calendar & butterfly) on real market data.
 
